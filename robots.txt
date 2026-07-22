@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jiyuanhan.github.io/jiyuan-han-website/sitemap.xml
